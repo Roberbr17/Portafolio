@@ -2,7 +2,6 @@
   background-image: url("../img/bg-hero");
   background-repeat: no-repeat;
   background-size: cover;
-  color: #000000;
   width: 1280px;
   height: 737px;
 }
@@ -13,18 +12,18 @@ background-color: #3a3939;
 
 .span-light, .span-bold {
   display: block;
-  color: #ffffff;
+  color: #000000;
   text-transform: uppercase;
   font-family: "Roboto", sans-serif;
 }
 
 .span-light {
-  font-weight: lighter;
+  font-weight: 400;
   border-bottom: 1px solid #ffffff;
 }
 
 .span-bold {
-  font-weight: bold;
+  font-weight: 700;
 }
 
 .display-1 {
@@ -32,7 +31,7 @@ background-color: #3a3939;
     font-weight: 300;
     line-height: 1.2;
     width: 400px;
-    margin: auto;
+    margin: 9rem;
   }
 
 .letra-tarjetas {
