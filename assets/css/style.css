@@ -8,7 +8,7 @@
 }
 
 .color {
-background-color: #660066;
+background-color: #3a3939;
 }
 
 .span-light, .span-bold {
@@ -34,3 +34,8 @@ background-color: #660066;
     width: 400px;
     margin: auto;
   }
+
+.letra-tarjetas {
+  font-family: "Swanky and Moo Moo", sans-serif;
+  font-weight: 400;
+}
