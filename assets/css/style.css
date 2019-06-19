@@ -15,6 +15,7 @@ background-color: #660066;
   display: block;
   color: #ffffff;
   text-transform: uppercase;
+  font-family: "Roboto", sans-serif;
 }
 
 .span-light {
@@ -32,3 +33,4 @@ background-color: #660066;
     line-height: 1.2;
     width: 400px;
     margin: auto;
+  }
