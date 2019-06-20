@@ -34,7 +34,20 @@ background-color: #3a3939;
     margin: 9rem;
   }
 
+.letra-cuerpo {
+  font-family: "Roboto", sans-serif;
+  font-weight: 400;
+}
+
 .letra-tarjetas {
   font-family: "Swanky and Moo Moo", sans-serif;
   font-weight: 400;
+}
+
+.dura {
+  font-weight: 700;
+}
+
+.mono {
+  text-decoration: none;
 }
