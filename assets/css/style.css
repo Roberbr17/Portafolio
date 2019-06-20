@@ -1,9 +1,14 @@
+body {
+  text-align: center;
+}
+
 .hero-section {
   background-image: url("../img/bg-hero");
   background-repeat: no-repeat;
   background-size: cover;
-  width: 1280px;
-  height: 737px;
+  background-position: right;
+  width: auto;
+  height: 600px;
 }
 
 .color {
@@ -31,7 +36,6 @@ background-color: #3a3939;
     font-weight: 300;
     line-height: 1.2;
     width: 400px;
-    margin: 9rem;
   }
 
 .letra-cuerpo {
